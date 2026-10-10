@@ -1,5 +1,5 @@
-![overview page](Capture4.png)
-![Insights and details page](overview.png)
+![overview page](Capture4.PNG)
+![Insights and details page](overview.PNG)
 
 # Tech Layoffs Dashboard (2020 to 2026)
 
