@@ -5,7 +5,7 @@
 
 An interactive Power BI dashboard that shows which industries, countries, companies and company stages were hit hardest by tech layoffs.
 
-**Data:** Kaggle layoffs dataset ([add link]), 4,616 layoff events between March 2020 and September 2026.
+**Data:** Kaggle layoffs dataset ([https://raw.githubusercontent.com/jilly-3636/tech-layoffs-project/refs/heads/main/layoffs%20(1).csv]), 4,616 layoff events between March 2020 and September 2026.
 **Tools:** Power Query (cleaning), DAX (measures), Power BI Desktop (dashboard).
 
 ## Dashboard
@@ -48,11 +48,11 @@ A Dim Date calendar table is linked to the layoffs table by date (one-to-many). 
 - "Shut down" means a company laid off 100% of its staff in an event. It is a strong sign of closure, not proof.
 - 2026 only runs to September, so it is not comparable with full years.
 
-## Files
+##Files
 
-- tech-layoffs-dashboard.pbix: open it in Power BI Desktop
-- overview.png, insights-details.png: screenshots
+- tech-layoffs-dashboard. pbix: open it in Power BI Desktop
+- overview.png, Capture4.png: screenshots
 
 ## Author
 
-[Your name] | [LinkedIn link]
+[Juliet Syuki] | 
